@@ -1,4 +1,5 @@
 # Calculator Web App
+#### [Link to site](https://harrycs1.github.io/Calculator-App/)
 #### Video Demo:  <https://youtu.be/x0WOcwJwgJI>
 #### Description:
 This project is a web-app calculator written in JavaScript. I worked alone, and chose this project because calculators are commonly used and deceptively complex to build. The experience I gained of HTML and CSS through the CS50 course set me in good stead for creating the webpage and user interface. This project required me to practice JavaScript independently, which was the biggest challenge I faced.
